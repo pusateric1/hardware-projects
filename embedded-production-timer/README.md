@@ -19,8 +19,6 @@ Custom embedded production timer system designed for manufacturing environments 
 - Rapid prototyping
 ## Project Images
 
-### Assembled Prototype
-![Assembled Timer](Production Timer.jpg)
+![Assembled Timer](./Production%20Timer.jpeg)
 
-### PCB Layout
-![PCB Layout](Production Timer 2.jpg)
+![PCB Layout](./Production%20Timer%202.jpeg)
