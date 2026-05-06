@@ -17,3 +17,10 @@ Custom embedded production timer system designed for manufacturing environments 
 - CAD modeling
 - Additive manufacturing
 - Rapid prototyping
+## Project Images
+
+### Assembled Prototype
+![Assembled Timer](Production Timer.jpg)
+
+### PCB Layout
+![PCB Layout](Production Timer 2.jpg)
