@@ -24,9 +24,6 @@ Miniaturized waterproof embedded electronics platform with compact PCB integrati
 ### Waterproof Holley ECU Enclosure
 Custom waterproof enclosure and mounting system for automotive electronics packaging and environmental protection.
 
-### Environmental Electronics Housing
-Custom environmental enclosure modifications and mounting systems for field applications.
-
 ## Tools & Technologies
 - Fusion 360
 - KiCad
